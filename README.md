@@ -10,4 +10,4 @@
 
 Repositório feito para o projeto do software de contratação de segurança para eventos.
 
-Informações mais completas na aba WIKI!
+📘 Informações mais completas na aba WIKI! 📘
