@@ -5,7 +5,6 @@
 
   Enzo Bernal de Matos - 32254091 </h4>
 <br>
-
 Repositório feito para o projeto do software de contratação de segurança para eventos.
 
 📘 Informações completas na aba WIKI! 📘
