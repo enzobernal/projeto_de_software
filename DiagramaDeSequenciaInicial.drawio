@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" modified="2023-10-22T23:34:14.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="OuS1EvayCguI7CzrpwS1" version="22.0.6" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="796" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-1" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;lt;&amp;lt;fronteira&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;br&gt;Sistema de segurança" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-2" value="Cliente&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="470" as="sourcePoint" />
+            <mxPoint x="85" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Pdk22wZuA5SJBO87qRBs-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="460" as="sourcePoint" />
+            <mxPoint x="210" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="160" as="sourcePoint" />
+            <mxPoint x="380" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-6" value="Afiliar-se (CPF/CNPJ, nome da empresa,telefone, email)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pdk22wZuA5SJBO87qRBs-5" connectable="0" vertex="1">
+          <mxGeometry x="0.1716" y="2" relative="1" as="geometry">
+            <mxPoint x="-13" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="230" as="sourcePoint" />
+            <mxPoint x="380" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-8" value="Publicar evento&lt;br&gt;(Qnt pessoas, local, hora, data)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pdk22wZuA5SJBO87qRBs-7" connectable="0" vertex="1">
+          <mxGeometry x="0.1716" y="2" relative="1" as="geometry">
+            <mxPoint x="-29" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="340" as="sourcePoint" />
+            <mxPoint x="380" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-10" value="Aprovar proposta()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pdk22wZuA5SJBO87qRBs-9" connectable="0" vertex="1">
+          <mxGeometry x="0.1716" y="2" relative="1" as="geometry">
+            <mxPoint x="-29" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="290" as="sourcePoint" />
+            <mxPoint x="380" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-12" value="Cancelar evento()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pdk22wZuA5SJBO87qRBs-11" connectable="0" vertex="1">
+          <mxGeometry x="0.1716" y="2" relative="1" as="geometry">
+            <mxPoint x="-29" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="390" as="sourcePoint" />
+            <mxPoint x="380" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pdk22wZuA5SJBO87qRBs-14" value="Recusar proposta()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pdk22wZuA5SJBO87qRBs-13" connectable="0" vertex="1">
+          <mxGeometry x="0.1716" y="2" relative="1" as="geometry">
+            <mxPoint x="-29" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
